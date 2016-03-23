@@ -29,6 +29,9 @@ a.list-group-item .list-group-item-heading {
 #personal-info {
   padding : 20px;
 }
+[data-hidden="hidden"] {
+   display: none; 
+}
 .bs-callout {
     padding: 20px;
     margin: 20px 0;
