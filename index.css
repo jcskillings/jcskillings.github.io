@@ -21,6 +21,7 @@ a.list-group-item .list-group-item-heading {
 }
 #main-panel {
   background-color: #eee;
+  height: 100px;
 }
 #main-photo {
   padding: 20px;
