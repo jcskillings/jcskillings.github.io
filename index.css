@@ -29,8 +29,25 @@ a.list-group-item .list-group-item-heading {
 #personal-info {
   padding : 20px;
 }
-[data-hidden="hidden"] {
-   display: none; 
+#eyekor-row{
+  margin: 0px; 
+}
+#covance-item{
+  padding:10px 15px;
+}
+.text-right {
+  margin: 0px;
+}
+.col-sm-8{
+  padding: 0px;
+  height: 24px;
+}
+.col-sm-4{
+  padding: 0px;
+  height: 24px;
+}
+.bullet-list {
+  padding: 10px;
 }
 .bs-callout {
     padding: 20px;
